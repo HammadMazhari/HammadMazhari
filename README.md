@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning web-developing.
 - 💞️ I’m looking to collaborate on web-developing project.
-- 📫 How to reach me hamaym0714@gmail.com
+- 📫 How to reach me imhammad1407@gmail.com
 
 <!---
 HammadMazhari/HammadMazhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
